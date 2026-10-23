@@ -12,4 +12,6 @@ atamalar kartoçkalari, xronologiya, diagrammalar, xaritalar, viktorina va test.
 
 Sayt: https://jumayeva1983-ui.github.io/country-study-html/
 
+Arxiv nusxasi (Zenodo): https://doi.org/10.5281/zenodo.23602892
+
 Rasmlar öz litsenziyalari böyiça (har bir mavzudagi “Credits & sources” bandida körsatilgan).
